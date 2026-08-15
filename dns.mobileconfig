@@ -17,6 +17,8 @@
                     <string>94.140.15.15</string>
                 </array>
             </dict>
+            <key>PayloadDisplayName</key>
+            <string>AdGuard DNS Settings</string>
             <key>PayloadIdentifier</key>
             <string>com.dbos.dns.settings</string>
             <key>PayloadType</key>
@@ -42,4 +44,5 @@
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
+</plist>
 </plist>
